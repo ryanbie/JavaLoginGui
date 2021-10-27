@@ -6,5 +6,7 @@ public class Main {
 
         JFrame frame = new JFrame(); //frame for the GUI
         
+        JPanel panel = new JPanel(); //panel for the GUI
+        
     }
 }
